@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "419461385092",
+    "project_id": "gio-fence",
+    "storage_bucket": "gio-fence.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419461385092:android:675d75c02560f62133ebd1",
+        "android_client_info": {
+          "package_name": "com.example.giofence"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419461385092-1i5ekvenr6fq27cqiv17u7q0jhrsln95.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuyLgg6qHspLTiWUTmAPXahWtUf9K7z_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419461385092-1i5ekvenr6fq27cqiv17u7q0jhrsln95.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
